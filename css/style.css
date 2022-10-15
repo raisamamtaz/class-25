@@ -1,0 +1,225 @@
+html,body{
+    margin:0;
+    padding: 0;
+    overflow-x:hidden;
+}
+h1,h2,h3,h4,h5,p{
+    margin: 0;
+    padding: 0;
+}
+
+
+.two{
+    display: none;
+}
+.more{
+    position: absolute;
+}
+.clo{
+    
+}
+.rad{
+    display: none;
+}
+.admin{
+    background:black !important;
+    width: 810px;
+    color:whitesmoke;
+    display: none;
+    
+    
+}
+.head{
+    width: 323px;
+    text-align: center;
+    color: black;
+    border: 3px solid #1a1a1a59;
+    border-top: 69px solid #280a03;
+    border-bottom: 69px solid #280a03;
+    
+    
+
+    
+
+
+}
+.lab{
+    display: inline;
+}
+.title{
+    background: #cdebca;
+}
+.title:hover{
+    background: rgb(252, 179, 84) !important;
+    color: white;
+}
+.in{
+    border:2px solid rgb(23, 109, 109);
+    border-radius:5px;
+    text-align: center;
+}
+
+
+
+.put{
+    background: black;
+    border: 2px solid white;
+    color:aqua;
+    font-size: 16px;
+    border-radius: 3px;
+}
+.put:hover{
+    background: red;
+    color:wheat;
+}
+
+
+@media only screen and (min-width:320px) and (max-width:425px){
+
+
+    html,body{
+        margin:0;
+        padding: 0;
+        overflow-x:hidden;
+    }
+    h1,h2,h3,h4,h5,p{
+        margin: 0;
+        padding: 0;
+    }
+    
+    .imgone{
+        height: 426px !important;
+        width: 806px !important;
+    }
+    .imgtwo{
+        height: 426px !important;
+        width: 806px !important;
+    }
+    .more{
+        margin-left:-10px;
+    }
+    .star{
+        margin-left: 156px !important;
+        
+    }
+    .lis{
+        display: none;
+    }
+    .pro{
+        margin-left: -53px !important;
+        
+    }
+    .last{
+        display: inline-flex !important;
+        font-size: 10px;
+    }
+    .last_one h2{
+    font-size: 14px;
+    margin-left: -12px;
+    }
+    .last_two h2{
+        margin-left: 10px !important;
+        font-size: 14px;
+        margin-top: 23px;
+    
+    }
+    .last_three h2{
+        margin-left: 10px !important;
+        font-size: 12px !important;
+        margin-top: 33px !important;
+    }
+    .last_four h2{
+        margin-left: 10px !important;
+        font-size: 14px;
+        margin-top: 33px !important;
+    }
+    
+    .last_one button{
+        margin-top: -10px !important;
+        margin-left: 10px !important;
+        
+    }
+    h4{
+        font-size: 10px;
+    }    
+    
+    .last_two button{
+        margin-top: -10px !important;
+        margin-left: 10px !important;
+        padding: 2px 2px;
+    
+    }
+    .last_two{
+        margin-top: 10px !important;
+    }
+    .last_three button{
+        margin-top: -10px !important;
+        margin-left: 10px !important;
+        padding: 2px 2px;
+    
+    }
+    .last_four button{
+        margin-top: -10px !important;
+        padding: 2px 2px !important;
+    
+       
+    }
+    .last_four{
+        margin-bottom: 10px !important;
+    }
+    .last_three{
+        display: none !important;
+    }
+    .fb{
+        margin-left: 10px !important;
+        margin-bottom: 10px;
+        
+    }
+    .twit{
+        margin-top: 16px;
+        margin-left: 7px;
+        display: none !important;
+    }
+    .tube{
+        margin-top: 16px;
+        margin-left: 7px;
+        display: none !important;
+    
+    }
+    .star{
+        display: none;
+    }
+    .em{
+        margin-left: -20px !important;
+    }
+    .ps{
+        margin-left: -20px !important;
+    }
+    .loose{
+        margin-left: -35px !important;
+    }
+    .rad{
+        
+    }
+    .map{
+        
+    }
+    .you{
+    }
+    .cardd{
+        display: inline-block;
+        width: 100%;
+    }
+    .more{
+        display:none;
+    }
+    
+    
+    
+    
+    
+    }
+    
+
+
+
